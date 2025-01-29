@@ -1,0 +1,1 @@
+![Data Visualization - Martial Law in Data](https://github.com/keithlaspona/martial-law-in-data/blob/a166efa3ee62e839ec825c6fb8c543b6cb15613d/Data%20Visualization%20-%20The%20Impact%20of%20Martial%20Law%20on%20the%20Manufacturing%20Industry%20in%20the%20Philippines.png)
